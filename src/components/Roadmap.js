@@ -55,20 +55,6 @@ export default function Roadmap() {
             text="This stage will be a poll for the Community. If community decides they want a token, we will launch
             a token, or staking. This sage will be Community choice." 
             />
-
-          <ImageEvent
-            date="4/13/19"
-            text="You can embed images..."
-            src="https://res.cloudinary.com/dovoq8jou/image/upload/v1564772194/jellyfish.jpg"
-            alt="jellyfish swimming"
-            credit="Photo by [@tavi004](https://unsplash.com/@tavi004)"
-          >
-            <div>
-              <UrlButton href="https://unsplash.com/search/photos/undersea">
-                View more undersea photos
-              </UrlButton>
-            </div>
-          </ImageEvent>
         </Events>
       </Timeline>
     </div>
