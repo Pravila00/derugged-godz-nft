@@ -1,6 +1,7 @@
 import React from 'react';
-import reindeer_home from './assets/images/welcome_deers.png'
-
+import auro from './assets/images/auro.png'
+import avi from './assets/images/avi.png'
+import lloyd from './assets/images/lloyd.png'
 
 export default function Team() {
   return (
@@ -10,44 +11,24 @@ export default function Team() {
         </div>
         <div class="row">
             <div class="col">
-                <b>Auro</b>
+                <b>Avi</b>
                 <p>
-                    Personal information of the team member
+                    Team Lead
                 </p>
-                <img src={reindeer_home} class="img-fluid" width="200" height="200"/>
+                <img src={avi} class="img-fluid" width="200" height="200"/>
             </div>
             <div class="col">
                 <b>Auro</b>
                 <p>
-                    Personal information of the team member
+                    Dev
                 </p>
-                <img src={reindeer_home} class="img-fluid" width="200" height="200"/>         </div>
+                <img src={auro} class="img-fluid" width="200" height="200"/>         </div>
             <div class="col">
-                <b>Auro</b>
+                <b>lloyd</b>
                 <p>
-                    Personal information of the team member
+                    Artist
                 </p>
-                <img src={reindeer_home} class="img-fluid" width="200" height="200"/>         </div>
-        </div>
-        <div class="row">
-            <div class="col">
-                <b>Auro</b>
-                <p>
-                    Personal information of the team member
-                </p>
-                <img src={reindeer_home} class="img-fluid" width="200" height="200"/>         </div>
-            <div class="col">
-                <b>Auro</b>
-                <p>
-                    Personal information of the team member
-                </p>
-                <img src={reindeer_home} class="img-fluid" width="200" height="200"/>         </div>
-            <div class="col">
-                <b>Auro</b>
-                <p>
-                    Personal information of the team member
-                </p>
-                <img src={reindeer_home} class="img-fluid" width="200" height="200"/>         </div>
+                <img src={lloyd} class="img-fluid" width="200" height="200"/>         </div>
         </div>
     </div>
   );

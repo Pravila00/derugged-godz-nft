@@ -22,7 +22,11 @@ export default function Roadmap() {
         <h1><b>ROADMAP</b></h1>
         <Timeline theme={customTheme}>
         <Events>
-          <TextEvent date="1/1/19" text="**Markdown** is *supported*" />
+          <TextEvent date="Stage 0" 
+            text="Get Discord and Twitter Running.
+                  Start community growth and work on Art
+                  Make our way to take our sit on Solana Blockchain" 
+            />
 
           <ImageEvent
             date="4/13/19"

@@ -6,7 +6,7 @@ export default function Header() {
             <div class="row">
                 <div class="col-3 p-3">
                     <div class="text-center">
-                        <h1>Reindeer</h1>
+                        <h1>Derugged Godz Sanctuary</h1>
                     </div>
                 </div>
                 <div class="col-9 p-3">
