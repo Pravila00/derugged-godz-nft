@@ -1,3 +1,2 @@
-# reindeer-solana
-
-React app for the marketing of a Solana NFT project
+# Derugged Godz Sanctuary Promotional Site
+NFT project based on Solana chain
